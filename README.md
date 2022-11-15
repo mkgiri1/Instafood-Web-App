@@ -1,4 +1,4 @@
-## Blog App using Django
+## Instafood WebApp App using Django
 
 ---
 **Notes**
