@@ -42,7 +42,7 @@ DATABASES = {
 }
 ```
 
-## Enhancements of Blog with Advanced Features e.g
+## Enhancements of WebApp with Advanced Features e.g
 * Email
 * Comments
 * Tags and metadata
